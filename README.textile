@@ -1,0 +1,7 @@
+h1. Simple Python Data Mining lib
+
+
+h2. Now Include
+
+* Euclidean Distance (Similarity)
+* Pearson correlation coefficient (Similarity) #TODO
