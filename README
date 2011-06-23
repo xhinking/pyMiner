@@ -1,1 +1,6 @@
-'Hello,world!'
+This a python lib focus on data mining.
+
+Mow it's include:
+
+1.Euclidean Distance (Similarity)
+2.Pearson correlation coefficient (Similarity)
