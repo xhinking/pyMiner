@@ -4,4 +4,8 @@ h1. Simple Python Data Mining lib
 h2. Now Include
 
 * Euclidean Distance (Similarity)
-* Pearson correlation coefficient (Similarity) #TODO
+* Pearson Correlation Coefficient (Similarity)
+
+h2. Similarity
+* e_distance(point1, point2)
+* p_correlation(si,prefs1,prefs2)
